@@ -6,7 +6,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
         <h1 className="text-2xl purple_gradient font-bold">Synoptic.AI</h1>
-        <button type="button" className="black_btn" onClick={()=>window.open("https://github.com/i-nithin")}>Github</button>
+        <button type="button" className="black_btn" onClick={()=>window.open("https://github.com/i-nithin/SynopticAI.git")}>Github</button>
       </nav>
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden' />
