@@ -15,8 +15,8 @@ const Hero = () => {
       <h2 className='desc'>
         Simplify your reading with Summize, an open-source article summarizer
         that transforms lengthy articles into clear and concise summaries
-        
       </h2>
+      <h6 className="desc text-1xl">Made with ❤️ by i-nithin </h6>
     </header>
   );
 };
